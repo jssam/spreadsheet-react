@@ -9,6 +9,9 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^4.6.0",
+    "lodash.find": "^4.6.0",
+    "lodash.isequal": "^4.5.0",
+    "lodash.slice": "^4.2.0",
     "react-bootstrap": "^1.5.1",
     "react-scripts": "^5.0.1",
     "web-vitals": "^1.0.1"
